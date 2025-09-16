@@ -1,0 +1,64 @@
+Query 1: "new york"
+Processed terms: new york 
+Postings for [new]: 1012 1024 1045 1068 
+Postings for [york]: 1068 
+AND-matched docs: 1068 
+
+Query 2: "america"
+Processed terms: america 
+Postings for [america]: 1033 1036 1039 1050 1060 
+AND-matched docs: 1033 1036 1039 1050 1060 
+
+Query 3: "white house"
+Processed terms: white house 
+Postings for [white]: 
+Postings for [house]: 
+AND-matched docs: 
+
+Query 4: "donald trump"
+Processed terms: donald trump 
+Postings for [donald]: 
+Postings for [trump]: 1002 1006 1018 1028 1039 1040 1049 1063 1073 1074 
+AND-matched docs: 
+
+Query 5: "joe biden"
+Processed terms: joe biden 
+Postings for [joe]: 
+Postings for [biden]: 
+AND-matched docs: 
+
+Query 6: "global warming effect"
+Processed terms: global war effect 
+Postings for [global]: 
+Postings for [war]: 1009 1017 1018 1039 1053 1063 
+Postings for [effect]: 
+AND-matched docs: 
+
+Query 7: "election result update"
+Processed terms: election result update 
+Postings for [election]: 1050 
+Postings for [result]: 
+Postings for [update]: 1003 
+AND-matched docs: 
+
+Query 8: "stock market crash"
+Processed terms: stock market crash 
+Postings for [stock]: 1054 1055 1061 
+Postings for [market]: 1061 
+Postings for [crash]: 
+AND-matched docs: 
+
+Query 9: "covid vaccine research"
+Processed terms: covid vaccine research 
+Postings for [covid]: 
+Postings for [vaccine]: 1032 1034 
+Postings for [research]: 1041 1043 1048 
+AND-matched docs: 
+
+Query 10: "sports team wins"
+Processed terms: sport team win 
+Postings for [sport]: 1075 
+Postings for [team]: 
+Postings for [win]: 1009 1020 1021 
+AND-matched docs: 
+

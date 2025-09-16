@@ -1,0 +1,2136 @@
+Total docs processed: 82
+Vocabulary size: 492
+
+TERM: 1  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 4.100000]
+  [1055, 1, 0.062500, 2.562500]
+
+TERM: 15  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1022, 1, 0.250000, 20.500000]
+
+TERM: 1960  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: 20  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: 2009  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1046, 1, 0.166667, 13.666667]
+
+TERM: 260000  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: 40  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1042, 1, 0.090909, 7.454545]
+
+TERM: 50  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: 5letter  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1076, 1, 0.200000, 16.400000]
+
+TERM: 6  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1020, 1, 0.166667, 6.833333]
+  [1076, 1, 0.200000, 8.200000]
+
+TERM: 7  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1079, 1, 0.166667, 13.666667]
+
+TERM: 71  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1046, 1, 0.166667, 13.666667]
+
+TERM: 86  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1071, 1, 0.125000, 10.250000]
+
+TERM: abl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: achiev  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: acquisit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 6.833333]
+
+TERM: across  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1065, 1, 0.200000, 16.400000]
+
+TERM: adjus  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: administr  DF=4
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 0.976190]
+  [1041, 1, 0.071429, 1.464286]
+  [1048, 1, 0.200000, 4.100000]
+  [1074, 1, 0.066667, 1.366667]
+
+TERM: affec  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: ag  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1046, 1, 0.166667, 13.666667]
+
+TERM: aggress  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: ago  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1058, 1, 0.125000, 10.250000]
+
+TERM: agre  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 10.250000]
+
+TERM: ai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1064, 1, 0.333333, 27.333333]
+
+TERM: alreadi  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1030, 1, 0.142857, 3.904762]
+  [1041, 1, 0.071429, 1.952381]
+  [1045, 1, 0.066667, 1.822222]
+
+TERM: america  DF=5
+Postings -> [docid, freq, tf, tf-idf]
+  [1033, 1, 0.250000, 4.100000]
+  [1036, 1, 0.071429, 1.171429]
+  [1039, 1, 0.200000, 3.280000]
+  [1050, 1, 0.083333, 1.366667]
+  [1060, 1, 0.142857, 2.342857]
+
+TERM: american  DF=4
+Postings -> [docid, freq, tf, tf-idf]
+  [1008, 1, 0.142857, 2.928571]
+  [1014, 1, 0.066667, 1.366667]
+  [1040, 1, 0.047619, 0.976190]
+  [1067, 1, 0.083333, 1.708333]
+
+TERM: anger  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1073, 1, 0.142857, 11.714286]
+
+TERM: anim  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1037, 1, 0.125000, 10.250000]
+
+TERM: announ  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1001, 1, 0.090909, 3.727273]
+  [1074, 1, 0.066667, 2.733333]
+
+TERM: answer  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1049, 1, 0.166667, 6.833333]
+  [1064, 1, 0.333333, 13.666667]
+
+TERM: antimonopoli  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 6.833333]
+
+TERM: antitrump  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: antitrust  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1004, 1, 0.111111, 9.111111]
+
+TERM: antivaccin  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1033, 1, 0.250000, 20.500000]
+
+TERM: anywai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1007, 1, 0.333333, 27.333333]
+
+TERM: appl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: arab  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1019, 1, 0.125000, 10.250000]
+
+TERM: around  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1070, 1, 0.166667, 13.666667]
+
+TERM: art  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: arthur  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1066, 1, 0.200000, 16.400000]
+
+TERM: attack  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1019, 1, 0.125000, 10.250000]
+
+TERM: author  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1030, 1, 0.142857, 11.714286]
+
+TERM: avoid  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1006, 1, 0.200000, 8.200000]
+  [1063, 1, 0.142857, 5.857143]
+
+TERM: award  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1023, 1, 0.250000, 20.500000]
+
+TERM: bac  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1069, 1, 0.142857, 11.714286]
+
+TERM: band  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: bear  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: began  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 5.466667]
+
+TERM: benjamin  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: besieg  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1037, 1, 0.125000, 10.250000]
+
+TERM: bessent  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 5.125000]
+  [1001, 1, 0.090909, 3.727273]
+
+TERM: best  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1023, 1, 0.250000, 10.250000]
+  [1072, 1, 0.071429, 2.928571]
+
+TERM: big  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1020, 1, 0.166667, 13.666667]
+
+TERM: biggest  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 8.200000]
+
+TERM: bill  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: billion  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 8.200000]
+
+TERM: bites  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1081, 1, 0.200000, 16.400000]
+
+TERM: blitz  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1073, 1, 0.142857, 11.714286]
+
+TERM: board  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 4.100000]
+  [1055, 1, 0.062500, 2.562500]
+
+TERM: bobbi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1071, 1, 0.125000, 10.250000]
+
+TERM: bom  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: boom  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1061, 1, 0.166667, 13.666667]
+
+TERM: bought  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: bourbon  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1011, 1, 0.142857, 11.714286]
+
+TERM: box  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1056, 1, 0.200000, 8.200000]
+  [1058, 1, 0.125000, 5.125000]
+
+TERM: boyc  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: brain  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: breakthrough  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: britain  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1009, 1, 0.250000, 20.500000]
+
+TERM: british  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1030, 1, 0.142857, 11.714286]
+
+TERM: broadcast  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: broke  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1004, 1, 0.111111, 9.111111]
+
+TERM: budget  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1042, 1, 0.090909, 7.454545]
+
+TERM: bui  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 8.200000]
+
+TERM: built  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: call  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 1.822222]
+  [1042, 1, 0.090909, 2.484848]
+  [1051, 1, 0.333333, 9.111111]
+
+TERM: can  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1079, 1, 0.166667, 13.666667]
+
+TERM: canada  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1049, 1, 0.166667, 13.666667]
+
+TERM: cancel  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 3.727273]
+  [1041, 1, 0.071429, 2.928571]
+
+TERM: cancer  DF=5
+Postings -> [docid, freq, tf, tf-idf]
+  [1039, 1, 0.200000, 3.280000]
+  [1043, 1, 0.052632, 0.863158]
+  [1045, 1, 0.066667, 1.093333]
+  [1046, 1, 0.166667, 2.733333]
+  [1048, 1, 0.200000, 3.280000]
+
+TERM: cancerrel  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 1, 0.071429, 5.857143]
+
+TERM: cancerresearch  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: capitul  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1051, 1, 0.333333, 27.333333]
+
+TERM: cardboard  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1059, 1, 0.142857, 11.714286]
+
+TERM: carnei  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: cement  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 5.466667]
+
+TERM: cere  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1056, 1, 0.200000, 8.200000]
+  [1058, 1, 0.125000, 5.125000]
+
+TERM: ceremoni  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: certain  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: chan  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1044, 1, 0.142857, 11.714286]
+
+TERM: chanc  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1076, 1, 0.200000, 16.400000]
+
+TERM: charli  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 1.822222]
+  [1015, 1, 0.100000, 2.733333]
+  [1029, 1, 0.111111, 3.037037]
+
+TERM: chicago  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1073, 1, 0.142857, 11.714286]
+
+TERM: chicagoan  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: chief  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: children  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1037, 1, 0.125000, 10.250000]
+
+TERM: china  DF=4
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 2.562500]
+  [1001, 1, 0.090909, 1.863636]
+  [1004, 1, 0.111111, 2.277778]
+  [1008, 1, 0.142857, 2.928571]
+
+TERM: chines  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 6.833333]
+
+TERM: choic  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: christian  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 5.466667]
+
+TERM: citi  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1037, 1, 0.125000, 5.125000]
+  [1068, 1, 0.111111, 4.555556]
+
+TERM: civilian  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: clu  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1080, 1, 0.200000, 16.400000]
+
+TERM: coalesc  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1070, 1, 0.166667, 13.666667]
+
+TERM: come  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 4.555556]
+  [1070, 1, 0.166667, 6.833333]
+
+TERM: comedi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: common  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1077, 1, 0.200000, 16.400000]
+
+TERM: compani  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 2.928571]
+  [1055, 1, 0.062500, 2.562500]
+
+TERM: concer  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: confidenti  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 10.250000]
+
+TERM: connect  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1075, 1, 0.250000, 20.500000]
+
+TERM: conserv  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 4.555556]
+  [1014, 1, 0.066667, 2.733333]
+
+TERM: consider  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1029, 1, 0.111111, 9.111111]
+
+TERM: construct  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1031, 1, 0.166667, 13.666667]
+
+TERM: contract  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 1, 0.071429, 5.857143]
+
+TERM: coron  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 8.200000]
+
+TERM: crisi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1008, 1, 0.142857, 11.714286]
+
+TERM: critic  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1051, 1, 0.333333, 27.333333]
+
+TERM: cut  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 1.301587]
+  [1042, 1, 0.090909, 2.484848]
+  [1043, 1, 0.052632, 1.438596]
+
+TERM: cutout  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1058, 1, 0.125000, 10.250000]
+
+TERM: dai  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 2.277778]
+  [1060, 1, 0.142857, 3.904762]
+  [1080, 1, 0.200000, 5.466667]
+
+TERM: deal  DF=4
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 2.562500]
+  [1001, 1, 0.090909, 1.863636]
+  [1031, 1, 0.166667, 3.416667]
+  [1050, 1, 0.083333, 1.708333]
+
+TERM: death  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 9.111111]
+
+TERM: decad  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1058, 1, 0.125000, 10.250000]
+
+TERM: declar  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1010, 1, 0.333333, 27.333333]
+
+TERM: dedic  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1059, 1, 0.142857, 11.714286]
+
+TERM: deepli  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: defend  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 8.200000]
+
+TERM: delai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 1, 0.071429, 5.857143]
+
+TERM: democrat  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1069, 1, 0.142857, 5.857143]
+  [1070, 1, 0.166667, 6.833333]
+
+TERM: desir  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: detail  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1001, 1, 0.090909, 3.727273]
+  [1012, 1, 0.111111, 4.555556]
+
+TERM: di  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1046, 1, 0.166667, 6.833333]
+  [1071, 1, 0.125000, 5.125000]
+
+TERM: diagnos  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: diplomat  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1017, 1, 0.111111, 9.111111]
+
+TERM: dire  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: direct  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 7.454545]
+
+TERM: discont  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: discuss  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: dismantl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1048, 1, 0.200000, 16.400000]
+
+TERM: doctor  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: dollar  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 1, 0.071429, 5.857143]
+
+TERM: domino  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1078, 1, 0.200000, 16.400000]
+
+TERM: draconian  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: duo  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: earli  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: eat  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1037, 1, 0.125000, 10.250000]
+
+TERM: edit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1075, 1, 0.250000, 20.500000]
+
+TERM: el  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: elect  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: elon  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 8.200000]
+
+TERM: emmi  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1020, 1, 0.166667, 6.833333]
+  [1022, 1, 0.250000, 10.250000]
+
+TERM: end  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: endors  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1062, 1, 0.200000, 8.200000]
+  [1068, 1, 0.111111, 4.555556]
+
+TERM: engin  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: essai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1069, 1, 0.142857, 11.714286]
+
+TERM: establish  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: ever  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: everi  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1060, 1, 0.142857, 3.904762]
+  [1078, 1, 0.200000, 5.466667]
+  [1080, 1, 0.200000, 5.466667]
+
+TERM: everyon  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1060, 1, 0.142857, 11.714286]
+
+TERM: excit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: execut  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: expert  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1029, 1, 0.111111, 4.555556]
+  [1065, 1, 0.200000, 8.200000]
+
+TERM: explod  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: extend  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: extens  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1030, 1, 0.142857, 11.714286]
+
+TERM: extinct  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1059, 1, 0.142857, 11.714286]
+
+TERM: face  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1035, 1, 0.166667, 6.833333]
+  [1038, 1, 0.062500, 2.562500]
+
+TERM: fail  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: fantasi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1052, 1, 0.166667, 13.666667]
+
+TERM: farmer  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1008, 1, 0.142857, 11.714286]
+
+TERM: fasher  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: fatal  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1016, 1, 0.333333, 27.333333]
+
+TERM: fear  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1073, 1, 0.142857, 11.714286]
+
+TERM: fed  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1006, 1, 0.200000, 16.400000]
+
+TERM: feed  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1037, 1, 0.125000, 10.250000]
+
+TERM: fertil  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: fight  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1006, 1, 0.200000, 8.200000]
+  [1034, 1, 0.090909, 3.727273]
+
+TERM: find  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1049, 1, 0.166667, 13.666667]
+
+TERM: firsttim  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: fiscal  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1042, 1, 0.090909, 7.454545]
+
+TERM: fle  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: fleet  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1052, 1, 0.166667, 13.666667]
+
+TERM: focus  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1044, 1, 0.142857, 5.857143]
+  [1067, 1, 0.083333, 3.416667]
+
+TERM: for  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: forc  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 4.555556]
+  [1061, 1, 0.166667, 6.833333]
+
+TERM: forev  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1060, 1, 0.142857, 11.714286]
+
+TERM: form  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: framework  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 5.125000]
+  [1001, 1, 0.090909, 3.727273]
+
+TERM: fridai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1002, 1, 0.142857, 11.714286]
+
+TERM: fun  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: furi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: futur  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: gag  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1025, 1, 0.500000, 41.000000]
+
+TERM: gala  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1026, 1, 0.250000, 20.500000]
+
+TERM: galvan  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 9.111111]
+
+TERM: gave  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1001, 1, 0.090909, 7.454545]
+
+TERM: gaza  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1017, 1, 0.111111, 4.555556]
+  [1018, 1, 0.052632, 2.157895]
+
+TERM: get  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1080, 1, 0.200000, 16.400000]
+
+TERM: give  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1071, 1, 0.125000, 10.250000]
+
+TERM: goal  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: got  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1007, 1, 0.333333, 27.333333]
+
+TERM: govern  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 3.727273]
+  [1036, 1, 0.071429, 2.928571]
+
+TERM: governor  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1015, 1, 0.100000, 4.100000]
+  [1069, 1, 0.142857, 5.857143]
+
+TERM: grant  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 1, 0.071429, 5.857143]
+
+TERM: great  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: greatest  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: group  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1077, 1, 0.200000, 16.400000]
+
+TERM: grown  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: guess  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1076, 1, 0.200000, 16.400000]
+
+TERM: happen  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: hart  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1071, 1, 0.125000, 10.250000]
+
+TERM: head  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 7.454545]
+
+TERM: health  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1035, 1, 0.166667, 13.666667]
+
+TERM: healthi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: heavyweight  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1011, 1, 0.142857, 11.714286]
+
+TERM: hel  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1033, 1, 0.250000, 10.250000]
+  [1071, 1, 0.125000, 5.125000]
+
+TERM: held  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1015, 1, 0.100000, 8.200000]
+
+TERM: heritag  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: hesit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 7.454545]
+
+TERM: histori  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: hit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: hochul  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1062, 1, 0.200000, 8.200000]
+  [1068, 1, 0.111111, 4.555556]
+
+TERM: hollywood  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: home  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: horribl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1056, 1, 0.200000, 16.400000]
+
+TERM: huge  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 9.111111]
+
+TERM: hund  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 2, 0.142857, 11.714286]
+
+TERM: ic  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1073, 1, 0.142857, 11.714286]
+
+TERM: ideologi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1015, 1, 0.100000, 8.200000]
+
+TERM: illeg  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: imageri  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: immigr  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: imperil  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1061, 1, 0.166667, 13.666667]
+
+TERM: import  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 10.250000]
+
+TERM: incred  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1057, 1, 0.333333, 27.333333]
+
+TERM: indian  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: influenc  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1035, 1, 0.166667, 13.666667]
+
+TERM: inform  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 10.250000]
+
+TERM: institut  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: intensifi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1029, 1, 0.111111, 9.111111]
+
+TERM: invest  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 7.454545]
+
+TERM: isnt  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1033, 1, 0.250000, 20.500000]
+
+TERM: israel  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1017, 1, 0.111111, 3.037037]
+  [1018, 1, 0.052632, 1.438596]
+  [1019, 1, 0.125000, 3.416667]
+
+TERM: jin  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1002, 1, 0.142857, 11.714286]
+
+TERM: june  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: just  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1081, 1, 0.200000, 16.400000]
+
+TERM: kathi  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1062, 1, 0.200000, 8.200000]
+  [1068, 1, 0.111111, 4.555556]
+
+TERM: kill  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1029, 1, 0.111111, 4.555556]
+  [1038, 1, 0.062500, 2.562500]
+
+TERM: king  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1052, 1, 0.166667, 13.666667]
+
+TERM: kirk  DF=5
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 1.822222]
+  [1013, 1, 0.111111, 1.822222]
+  [1014, 1, 0.066667, 1.093333]
+  [1015, 1, 0.100000, 1.640000]
+  [1029, 1, 0.111111, 1.822222]
+
+TERM: know  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1016, 1, 0.333333, 27.333333]
+
+TERM: known  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: last  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: latenight  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: law  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1004, 1, 0.111111, 9.111111]
+
+TERM: lawsuit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: leader  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1019, 1, 0.125000, 5.125000]
+  [1049, 1, 0.166667, 6.833333]
+
+TERM: least  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: led  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: leftist  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1015, 1, 0.100000, 8.200000]
+
+TERM: letter  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1079, 1, 0.166667, 13.666667]
+
+TERM: life  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 2.733333]
+  [1047, 1, 0.090909, 3.727273]
+
+TERM: london  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 9.111111]
+
+TERM: long  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: look  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1022, 1, 0.250000, 10.250000]
+  [1057, 1, 0.333333, 13.666667]
+
+TERM: made  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1030, 1, 0.142857, 11.714286]
+
+TERM: madefortv  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: mai  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1017, 1, 0.111111, 3.037037]
+  [1040, 1, 0.047619, 1.301587]
+  [1053, 1, 0.076923, 2.102564]
+
+TERM: make  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 2.928571]
+  [1079, 1, 0.166667, 6.833333]
+
+TERM: mamdani  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1062, 1, 0.200000, 8.200000]
+  [1068, 1, 0.111111, 4.555556]
+
+TERM: mani  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 4.555556]
+  [1079, 1, 0.166667, 6.833333]
+
+TERM: marco  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: mark  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: market  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1061, 1, 0.166667, 13.666667]
+
+TERM: martyr  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 5.466667]
+
+TERM: mayor  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1068, 1, 0.111111, 9.111111]
+
+TERM: mean  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: medic  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 1.952381]
+  [1044, 1, 0.142857, 5.857143]
+
+TERM: medicalresearch  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: meet  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1019, 1, 0.125000, 10.250000]
+
+TERM: member  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: messag  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: met  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: mexican  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: might  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: million  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 2, 0.142857, 11.714286]
+
+TERM: minist  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 2.157895]
+  [1050, 1, 0.083333, 3.416667]
+
+TERM: minut  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1081, 1, 0.200000, 16.400000]
+
+TERM: modern  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: moment  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1023, 1, 0.250000, 20.500000]
+
+TERM: monke  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1071, 1, 0.125000, 10.250000]
+
+TERM: month  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: mother  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1046, 1, 0.166667, 13.666667]
+
+TERM: mount  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1004, 1, 0.111111, 9.111111]
+
+TERM: movement  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 2.733333]
+  [1036, 1, 0.071429, 2.928571]
+
+TERM: much  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: music  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1071, 1, 0.125000, 10.250000]
+
+TERM: musk  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 8.200000]
+
+TERM: natur  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: nearli  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1042, 1, 0.090909, 3.727273]
+  [1055, 1, 0.062500, 2.562500]
+
+TERM: neighborhood  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1073, 1, 0.142857, 11.714286]
+
+TERM: nepal  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1052, 1, 0.166667, 13.666667]
+
+TERM: netanyahu  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: new  DF=4
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 2.277778]
+  [1024, 1, 0.090909, 1.863636]
+  [1045, 1, 0.066667, 1.366667]
+  [1068, 1, 0.111111, 2.277778]
+
+TERM: newsroom  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1065, 1, 0.200000, 16.400000]
+
+TERM: next  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1042, 1, 0.090909, 3.727273]
+  [1066, 1, 0.200000, 8.200000]
+
+TERM: night  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: nomine  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1069, 1, 0.142857, 11.714286]
+
+TERM: now  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1059, 1, 0.142857, 11.714286]
+
+TERM: nuclear  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1031, 1, 0.166667, 13.666667]
+
+TERM: nvidia  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1004, 1, 0.111111, 4.555556]
+  [1005, 1, 0.083333, 3.416667]
+
+TERM: observ  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: offer  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 10.250000]
+
+TERM: on  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1007, 1, 0.333333, 9.111111]
+  [1043, 1, 0.052632, 1.438596]
+  [1045, 2, 0.133333, 3.644444]
+
+TERM: oper  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 4.100000]
+  [1074, 1, 0.066667, 2.733333]
+
+TERM: opinion  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1069, 1, 0.142857, 11.714286]
+
+TERM: opportun  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 5.466667]
+
+TERM: opposit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 7.454545]
+
+TERM: outrag  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: pai  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 4.100000]
+  [1055, 1, 0.062500, 2.562500]
+
+TERM: part  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1044, 1, 0.142857, 11.714286]
+
+TERM: particularli  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: payment  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 1, 0.071429, 5.857143]
+
+TERM: pediatr  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: percent  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1042, 1, 0.090909, 7.454545]
+
+TERM: perform  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: period  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: pesticid  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1035, 1, 0.166667, 6.833333]
+  [1036, 1, 0.071429, 2.928571]
+
+TERM: photo  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1026, 1, 0.250000, 20.500000]
+
+TERM: pilsen  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: pitt  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1020, 1, 0.166667, 13.666667]
+
+TERM: place  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1078, 1, 0.200000, 16.400000]
+
+TERM: plai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1075, 1, 0.250000, 20.500000]
+
+TERM: plan  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 2.733333]
+  [1030, 1, 0.142857, 3.904762]
+  [1035, 1, 0.166667, 4.555556]
+
+TERM: plant  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1031, 1, 0.166667, 13.666667]
+
+TERM: poet  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: politician  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: popular  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: possibl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1017, 1, 0.111111, 9.111111]
+
+TERM: postshow  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1026, 1, 0.250000, 20.500000]
+
+TERM: potenti  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1029, 1, 0.111111, 9.111111]
+
+TERM: presid  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1002, 1, 0.142857, 3.904762]
+  [1018, 1, 0.052632, 1.438596]
+  [1042, 1, 0.090909, 2.484848]
+
+TERM: prime  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 2.157895]
+  [1050, 1, 0.083333, 3.416667]
+
+TERM: prin  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1058, 1, 0.125000, 10.250000]
+
+TERM: prize  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1058, 1, 0.125000, 10.250000]
+
+TERM: progress  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: promis  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: promp  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: propos  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1042, 1, 0.090909, 3.727273]
+  [1055, 1, 0.062500, 2.562500]
+
+TERM: provis  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: puzzl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1081, 1, 0.200000, 16.400000]
+
+TERM: qatar  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1019, 1, 0.125000, 10.250000]
+
+TERM: question  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1064, 1, 0.333333, 27.333333]
+
+TERM: quiet  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1061, 1, 0.166667, 13.666667]
+
+TERM: quieter  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1074, 1, 0.066667, 5.466667]
+
+TERM: ralli  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 9.111111]
+
+TERM: rape  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: reader  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1065, 1, 0.200000, 16.400000]
+
+TERM: real  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: record  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 2.928571]
+  [1056, 1, 0.200000, 8.200000]
+
+TERM: regul  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 2, 0.166667, 13.666667]
+
+TERM: research  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1041, 1, 0.071429, 1.952381]
+  [1043, 1, 0.052632, 1.438596]
+  [1048, 1, 0.200000, 5.466667]
+
+TERM: respon  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1065, 1, 0.200000, 16.400000]
+
+TERM: respons  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1019, 1, 0.125000, 10.250000]
+
+TERM: return  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1052, 1, 0.166667, 13.666667]
+
+TERM: revolt  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1035, 1, 0.166667, 13.666667]
+
+TERM: right  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 4.555556]
+  [1078, 1, 0.200000, 8.200000]
+
+TERM: risk  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: royalist  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: rubio  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1017, 1, 0.111111, 4.555556]
+  [1018, 1, 0.052632, 2.157895]
+
+TERM: sai  DF=4
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 2.562500]
+  [1004, 1, 0.111111, 2.277778]
+  [1015, 1, 0.100000, 2.050000]
+  [1017, 1, 0.111111, 2.277778]
+
+TERM: said  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 3.416667]
+  [1029, 1, 0.111111, 4.555556]
+
+TERM: save  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1052, 1, 0.166667, 6.833333]
+  [1059, 1, 0.142857, 5.857143]
+
+TERM: school  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1044, 1, 0.142857, 11.714286]
+
+TERM: scienc  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 3.727273]
+  [1040, 1, 0.047619, 1.952381]
+
+TERM: scientist  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1044, 1, 0.142857, 11.714286]
+
+TERM: scotch  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1011, 1, 0.142857, 11.714286]
+
+TERM: scott  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1001, 1, 0.090909, 7.454545]
+
+TERM: se  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1003, 1, 0.500000, 13.666667]
+  [1014, 1, 0.066667, 1.822222]
+  [1018, 1, 0.052632, 1.438596]
+
+TERM: secretari  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1001, 1, 0.090909, 3.727273]
+  [1018, 1, 0.052632, 2.157895]
+
+TERM: secur  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 4.100000]
+  [1030, 1, 0.142857, 5.857143]
+
+TERM: send  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 10.250000]
+
+TERM: sendup  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: seri  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: set  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 2.928571]
+  [1040, 1, 0.047619, 1.952381]
+
+TERM: sever  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 10.250000]
+
+TERM: share  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1077, 1, 0.200000, 16.400000]
+
+TERM: shield  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1036, 1, 0.071429, 5.857143]
+
+TERM: shoot  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 3.037037]
+  [1015, 1, 0.100000, 2.733333]
+  [1016, 1, 0.333333, 9.111111]
+
+TERM: show  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: shut  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1039, 1, 0.200000, 16.400000]
+
+TERM: simpl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1063, 1, 0.142857, 11.714286]
+
+TERM: sinc  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 4.100000]
+  [1074, 1, 0.066667, 2.733333]
+
+TERM: singl  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 1.952381]
+  [1040, 1, 0.047619, 1.301587]
+  [1058, 1, 0.125000, 3.416667]
+
+TERM: snub  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1008, 1, 0.142857, 11.714286]
+
+TERM: solut  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1017, 1, 0.111111, 9.111111]
+
+TERM: solv  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1081, 1, 0.200000, 16.400000]
+
+TERM: songwrit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: soon  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 4.315789]
+
+TERM: sound  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1056, 1, 0.200000, 16.400000]
+
+TERM: soybean  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1008, 1, 0.142857, 11.714286]
+
+TERM: speak  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1002, 1, 0.142857, 11.714286]
+
+TERM: speed  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1031, 1, 0.166667, 13.666667]
+
+TERM: spoke  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1043, 1, 0.052632, 4.315789]
+
+TERM: sport  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1075, 1, 0.250000, 20.500000]
+
+TERM: spot  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1078, 1, 0.200000, 16.400000]
+
+TERM: stai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: star  DF=4
+Postings -> [docid, freq, tf, tf-idf]
+  [1026, 1, 0.250000, 5.125000]
+  [1037, 1, 0.125000, 2.562500]
+  [1038, 1, 0.062500, 1.281250]
+  [1070, 1, 0.166667, 3.416667]
+
+TERM: state  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1018, 1, 0.052632, 2.157895]
+  [1028, 1, 0.100000, 4.100000]
+
+TERM: still  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1057, 1, 0.333333, 27.333333]
+
+TERM: stock  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 2.733333]
+  [1055, 1, 0.062500, 1.708333]
+  [1061, 1, 0.166667, 4.555556]
+
+TERM: struggl  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1049, 1, 0.166667, 13.666667]
+
+TERM: studi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: studio  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: sudanes  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1037, 1, 0.125000, 10.250000]
+
+TERM: supercharg  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 5.466667]
+
+TERM: support  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1070, 1, 0.166667, 13.666667]
+
+TERM: surpass  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: suspect  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1012, 1, 0.111111, 4.555556]
+  [1015, 1, 0.100000, 4.100000]
+
+TERM: suspend  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: system  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 1.952381]
+  [1048, 1, 0.200000, 8.200000]
+
+TERM: sze  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1066, 1, 0.200000, 16.400000]
+
+TERM: taiwan  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1063, 1, 0.142857, 11.714286]
+
+TERM: takeawai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1020, 1, 0.166667, 13.666667]
+
+TERM: talk  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 6.833333]
+
+TERM: tariff  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1011, 1, 0.142857, 11.714286]
+
+TERM: taught  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1067, 1, 0.083333, 6.833333]
+
+TERM: teac  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1060, 1, 0.142857, 11.714286]
+
+TERM: tension  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1004, 1, 0.111111, 9.111111]
+
+TERM: tesla  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1054, 1, 0.100000, 4.100000]
+  [1055, 1, 0.062500, 2.562500]
+
+TERM: there  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1063, 1, 0.142857, 11.714286]
+
+TERM: thread  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1077, 1, 0.200000, 16.400000]
+
+TERM: threat  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1029, 1, 0.111111, 9.111111]
+
+TERM: tiktok  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 5.125000]
+  [1001, 1, 0.090909, 3.727273]
+
+TERM: time  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 5.125000]
+  [1069, 1, 0.142857, 5.857143]
+
+TERM: todai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: told  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: tommi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: tough  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1010, 1, 0.333333, 27.333333]
+
+TERM: track  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1060, 1, 0.142857, 11.714286]
+
+TERM: trade  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 3.416667]
+  [1009, 1, 0.250000, 10.250000]
+
+TERM: trap  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1038, 1, 0.062500, 5.125000]
+
+TERM: treasur  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1059, 1, 0.142857, 11.714286]
+
+TERM: treasuri  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1001, 1, 0.090909, 7.454545]
+
+TERM: treat  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1047, 1, 0.090909, 7.454545]
+
+TERM: treatment  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 5.466667]
+
+TERM: tri  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1006, 1, 0.200000, 16.400000]
+
+TERM: trillion  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1055, 1, 0.062500, 5.125000]
+
+TERM: trump  DF=10
+Postings -> [docid, freq, tf, tf-idf]
+  [1002, 1, 0.142857, 1.171429]
+  [1006, 1, 0.200000, 1.640000]
+  [1018, 1, 0.052632, 0.431579]
+  [1028, 1, 0.100000, 0.820000]
+  [1039, 1, 0.200000, 1.640000]
+  [1040, 1, 0.047619, 0.390476]
+  [1049, 1, 0.166667, 1.366667]
+  [1063, 1, 0.142857, 1.171429]
+  [1073, 1, 0.142857, 1.171429]
+  [1074, 1, 0.066667, 0.546667]
+
+TERM: try  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1034, 1, 0.090909, 7.454545]
+
+TERM: tune  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: tv  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1021, 1, 0.071429, 5.857143]
+
+TERM: two  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1011, 1, 0.142857, 11.714286]
+
+TERM: uk  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 8.200000]
+
+TERM: umass  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1044, 1, 0.142857, 11.714286]
+
+TERM: understand  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1040, 1, 0.047619, 3.904762]
+
+TERM: unexpectedli  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1072, 1, 0.071429, 5.857143]
+
+TERM: unforgett  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1022, 1, 0.250000, 20.500000]
+
+TERM: unit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1011, 1, 0.142857, 11.714286]
+
+TERM: updat  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1003, 1, 0.500000, 41.000000]
+
+TERM: upris  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1053, 1, 0.076923, 6.307692]
+
+TERM: us  DF=6
+Postings -> [docid, freq, tf, tf-idf]
+  [1000, 1, 0.125000, 1.708333]
+  [1004, 1, 0.111111, 1.518519]
+  [1005, 1, 0.083333, 1.138889]
+  [1008, 1, 0.142857, 1.952381]
+  [1034, 1, 0.090909, 1.242424]
+  [1066, 1, 0.200000, 2.733333]
+
+TERM: usbritish  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1031, 1, 0.166667, 13.666667]
+
+TERM: utah  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1015, 1, 0.100000, 8.200000]
+
+TERM: vaccin  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1032, 1, 0.333333, 13.666667]
+  [1034, 1, 0.090909, 3.727273]
+
+TERM: valu  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1014, 1, 0.066667, 5.466667]
+
+TERM: victor  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1010, 1, 0.333333, 27.333333]
+
+TERM: victori  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1050, 1, 0.083333, 6.833333]
+
+TERM: view  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 9.111111]
+
+TERM: violat  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1005, 1, 0.083333, 6.833333]
+
+TERM: visit  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1028, 1, 0.100000, 8.200000]
+
+TERM: wai  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1027, 1, 0.125000, 5.125000]
+  [1063, 1, 0.142857, 5.857143]
+
+TERM: want  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1032, 1, 0.333333, 27.333333]
+
+TERM: war  DF=6
+Postings -> [docid, freq, tf, tf-idf]
+  [1009, 1, 0.250000, 3.416667]
+  [1017, 1, 0.111111, 1.518519]
+  [1018, 1, 0.052632, 0.719298]
+  [1039, 1, 0.200000, 2.733333]
+  [1053, 1, 0.076923, 1.051282]
+  [1063, 1, 0.142857, 1.952381]
+
+TERM: weigh  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1019, 1, 0.125000, 10.250000]
+
+TERM: whiskei  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1011, 1, 0.142857, 11.714286]
+
+TERM: will  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1002, 1, 0.142857, 5.857143]
+  [1066, 1, 0.200000, 8.200000]
+
+TERM: win  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1009, 1, 0.250000, 6.833333]
+  [1020, 1, 0.166667, 4.555556]
+  [1021, 1, 0.071429, 1.952381]
+
+TERM: winner  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1024, 1, 0.090909, 7.454545]
+
+TERM: wor  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1045, 1, 0.066667, 2.733333]
+  [1059, 1, 0.142857, 5.857143]
+
+TERM: word  DF=3
+Postings -> [docid, freq, tf, tf-idf]
+  [1076, 1, 0.200000, 5.466667]
+  [1077, 1, 0.200000, 5.466667]
+  [1079, 1, 0.166667, 4.555556]
+
+TERM: wordplai  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1080, 1, 0.200000, 16.400000]
+
+TERM: world  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1032, 1, 0.333333, 27.333333]
+
+TERM: worst  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1023, 1, 0.250000, 20.500000]
+
+TERM: write  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1025, 1, 0.500000, 41.000000]
+
+TERM: xi  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1002, 1, 0.142857, 11.714286]
+
+TERM: year  DF=6
+Postings -> [docid, freq, tf, tf-idf]
+  [1013, 1, 0.111111, 1.518519]
+  [1021, 1, 0.071429, 0.976190]
+  [1042, 1, 0.090909, 1.242424]
+  [1047, 1, 0.090909, 1.242424]
+  [1053, 1, 0.076923, 1.051282]
+  [1067, 1, 0.083333, 1.138889]
+
+TERM: york  DF=1
+Postings -> [docid, freq, tf, tf-idf]
+  [1068, 1, 0.111111, 9.111111]
+
+TERM: zohran  DF=2
+Postings -> [docid, freq, tf, tf-idf]
+  [1062, 1, 0.200000, 8.200000]
+  [1068, 1, 0.111111, 4.555556]
+
